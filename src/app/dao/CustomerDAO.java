@@ -12,22 +12,19 @@ import java.sql.SQLException;
  */
 public class CustomerDAO {
 
-    private Connection con;
-
-    public CustomerDAO() {
-        try {
-            this.con = new ConnectionFactory().getConnection();
-        } catch (DBException ex) {
-            System.out.println("erro: "+ex.getMessage());
-        }
-    }
-
+    /**
+     * Insere um cliente na tabela tb_customers.
+     * Se o cliente já existir (mesmo ID), ele não será inserido novamente.
+     * @param customer O objeto Customer a ser inserido.
+     * @return true se a inserção for bem-sucedida, false caso contrário.
+     */
     public boolean insert(Customer customer) {
+        String sql = "INSERT INTO tb_customers (id, nome, cpf, email, telefone, celular, rua, numero, bairro, cidade, cep, estado) "
+                + "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)";
 
-        String sql = "insert into tb_customers (id, nome,cpf,email,telefone,celular,rua,numero,bairro,cidade,cep,estado) "
-                + " values (?,?,?,?,?,?,?,?,?,?,?,?)";
+        try (Connection con = new ConnectionFactory().getConnection();
+             PreparedStatement stmt = con.prepareStatement(sql)) {
 
-        try (PreparedStatement stmt = con.prepareStatement(sql)) {
             stmt.setInt(1, customer.getId());
             stmt.setString(2, customer.getName());
             stmt.setString(3, customer.getCpf());
@@ -43,12 +40,19 @@ public class CustomerDAO {
 
             stmt.executeUpdate();
             return true;
+
+        } catch (DBException ex) {
+            System.err.println("Erro de conexão com o banco de dados: " + ex.getMessage());
         } catch (SQLException ex) {
-            // Ignora o erro de chave primária duplicada para permitir a re-execução
-            if (!ex.getSQLState().equals("23505")) { 
-              System.out.println("Erro ao cadastrar o cliente, " + ex.getMessage());
+            // O código de erro '23505' corresponde a uma violação de chave única (cliente já existe)
+            if ("23505".equals(ex.getSQLState())) {
+                // Silenciosamente ignora a tentativa de inserir um cliente duplicado
+            } else {
+                System.err.println("Erro de SQL ao inserir cliente: " + ex.getMessage());
             }
-            return false;
+        } catch (NumberFormatException ex) {
+            System.err.println("Erro de formato de número para o cliente ID " + customer.getId() + ": " + ex.getMessage());
         }
+        return false;
     }
 }

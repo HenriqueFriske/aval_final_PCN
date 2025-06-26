@@ -11,7 +11,7 @@
 -- dentro do banco de dados "avaliacao_II", criar a tabela "tb_customers"
 
 /***** TABELA tb_customers *****/
--- DROP TABLE tb_customers;
+DROP TABLE tb_customers;
 CREATE TABLE tb_customers (
   id INTEGER NOT NULL PRIMARY KEY,
   nome varchar(100),
