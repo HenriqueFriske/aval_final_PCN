@@ -1,0 +1,1203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<customers>
+    <customer id="1">
+        <name>Ana Silva</name>
+        <cpf>12345678900</cpf>
+        <email>ana.silva@email.com</email>
+        <homePhone>1133224455</homePhone>
+        <cellPhone>11987654321</cellPhone>
+        <address>
+            <street>Rua das Flores</street>
+            <addressNumber>123</addressNumber>
+            <neighborhood>Centro</neighborhood>
+            <city>São Paulo</city>
+            <zipCode>01001000</zipCode>
+            <uf>SP</uf>
+        </address>
+    </customer>
+    <customer id="2">
+        <name>Bruno Souza</name>
+        <cpf>23456789011</cpf>
+        <email>bruno.souza@email.com</email>
+        <homePhone>1133224466</homePhone>
+        <cellPhone>11987654322</cellPhone>
+        <address>
+            <street>Av. Paulista</street>
+            <addressNumber>456</addressNumber>
+            <neighborhood>Bela Vista</neighborhood>
+            <city>São Paulo</city>
+            <zipCode>02002000</zipCode>
+            <uf>SP</uf>
+        </address>
+    </customer>
+    <customer id="3">
+        <name>Carlos Lima</name>
+        <cpf>34567890122</cpf>
+        <email>carlos.lima@email.com</email>
+        <homePhone>1133224477</homePhone>
+        <cellPhone>11987654323</cellPhone>
+        <address>
+            <street>Rua Augusta</street>
+            <addressNumber>789</addressNumber>
+            <neighborhood>Consolação</neighborhood>
+            <city>São Paulo</city>
+            <zipCode>03003000</zipCode>
+            <uf>SP</uf>
+        </address>
+    </customer>
+    <customer id="4">
+        <name>Daniela Rocha</name>
+        <cpf>45678901233</cpf>
+        <email>daniela.rocha@email.com</email>
+        <homePhone>1133224488</homePhone>
+        <cellPhone>11987654324</cellPhone>
+        <address>
+            <street>Av. Brasil</street>
+            <addressNumber>321</addressNumber>
+            <neighborhood>Jardins</neighborhood>
+            <city>São Paulo</city>
+            <zipCode>04004000</zipCode>
+            <uf>SP</uf>
+        </address>
+    </customer>
+    <customer id="5">
+        <name>Eduardo Reis</name>
+        <cpf>56789012344</cpf>
+        <email>eduardo.reis@email.com</email>
+        <homePhone>1133224499</homePhone>
+        <cellPhone>11987654325</cellPhone>
+        <address>
+            <street>Rua XV de Novembro</street>
+            <addressNumber>654</addressNumber>
+            <neighborhood>Centro</neighborhood>
+            <city>Campinas</city>
+            <zipCode>05005000</zipCode>
+            <uf>SP</uf>
+        </address>
+    </customer>
+    <customer id="6">
+        <name>Fernanda Costa</name>
+        <cpf>67890123455</cpf>
+        <email>fernanda.costa@email.com</email>
+        <homePhone>1133224400</homePhone>
+        <cellPhone>11987654326</cellPhone>
+        <address>
+            <street>Av. Independência</street>
+            <addressNumber>987</addressNumber>
+            <neighborhood>Bosque</neighborhood>
+            <city>Campinas</city>
+            <zipCode>06006000</zipCode>
+            <uf>SP</uf>
+        </address>
+    </customer>
+    <customer id="7">
+        <name>Gustavo Almeida</name>
+        <cpf>78901234566</cpf>
+        <email>gustavo.almeida@email.com</email>
+        <homePhone>1133224411</homePhone>
+        <cellPhone>11987654327</cellPhone>
+        <address>
+            <street>Rua São João</street>
+            <addressNumber>111</addressNumber>
+            <neighborhood>Centro</neighborhood>
+            <city>Santos</city>
+            <zipCode>07007000</zipCode>
+            <uf>SP</uf>
+        </address>
+    </customer>
+    <customer id="8">
+        <name>Helena Nunes</name>
+        <cpf>89012345677</cpf>
+        <email>helena.nunes@email.com</email>
+        <homePhone>1133224422</homePhone>
+        <cellPhone>11987654328</cellPhone>
+        <address>
+            <street>Av. Afonso Pena</street>
+            <addressNumber>222</addressNumber>
+            <neighborhood>Boqueirão</neighborhood>
+            <city>Santos</city>
+            <zipCode>08008000</zipCode>
+            <uf>SP</uf>
+        </address>
+    </customer>
+    <customer id="9">
+        <name>Igor Martins</name>
+        <cpf>90123456788</cpf>
+        <email>igor.martins@email.com</email>
+        <homePhone>1133224433</homePhone>
+        <cellPhone>11987654329</cellPhone>
+        <address>
+            <street>Rua General Osório</street>
+            <addressNumber>333</addressNumber>
+            <neighborhood>Vila Belmiro</neighborhood>
+            <city>Santos</city>
+            <zipCode>09009000</zipCode>
+            <uf>SP</uf>
+        </address>
+    </customer>
+    <customer id="10">
+        <name>Julia Fernandes</name>
+        <cpf>012345.67899</cpf>
+        <email>julia.fernandes@email.com</email>
+        <homePhone>1133224444</homePhone>
+        <cellPhone>11987654330</cellPhone>
+        <address>
+            <street>Av. Rio Branco</street>
+            <addressNumber>444</addressNumber>
+            <neighborhood>Centro</neighborhood>
+            <city>Ribeirão Preto</city>
+            <zipCode>10010000</zipCode>
+            <uf>SP</uf>
+        </address>
+    </customer>
+    <customer id="11">
+        <name>Kaio Pereira</name>
+        <cpf>11122233344</cpf>
+        <email>kaio.pereira@email.com</email>
+        <homePhone>1133224455</homePhone>
+        <cellPhone>11987654331</cellPhone>
+        <address>
+            <street>Rua Dom Pedro</street>
+            <addressNumber>555</addressNumber>
+            <neighborhood>Jardim América</neighborhood>
+            <city>Ribeirão Preto</city>
+            <zipCode>11011000</zipCode>
+            <uf>SP</uf>
+        </address>
+    </customer>
+    <customer id="12">
+        <name>Larissa Teixeira</name>
+        <cpf>22233344455</cpf>
+        <email>larissa.teixeira@email.com</email>
+        <homePhone>1133224466</homePhone>
+        <cellPhone>11987654332</cellPhone>
+        <address>
+            <street>Av. das Américas</street>
+            <addressNumber>666</addressNumber>
+            <neighborhood>Zona Sul</neighborhood>
+            <city>Rio de Janeiro</city>
+            <zipCode>12012000</zipCode>
+            <uf>RJ</uf>
+        </address>
+    </customer>
+    <customer id="13">
+        <name>Marcelo Oliveira</name>
+        <cpf>33344455566</cpf>
+        <email>marcelo.oliveira@email.com</email>
+        <homePhone>1133224477</homePhone>
+        <cellPhone>11987654333</cellPhone>
+        <address>
+            <street>Rua do Catete</street>
+            <addressNumber>777</addressNumber>
+            <neighborhood>Glória</neighborhood>
+            <city>Rio de Janeiro</city>
+            <zipCode>13013000</zipCode>
+            <uf>RJ</uf>
+        </address>
+    </customer>
+    <customer id="14">
+        <name>Natália Ribeiro</name>
+        <cpf>44455566677</cpf>
+        <email>natalia.ribeiro@email.com</email>
+        <homePhone>1133224488</homePhone>
+        <cellPhone>11987654334</cellPhone>
+        <address>
+            <street>Av. Presidente Vargas</street>
+            <addressNumber>888</addressNumber>
+            <neighborhood>Centro</neighborhood>
+            <city>Rio de Janeiro</city>
+            <zipCode>14014000</zipCode>
+            <uf>RJ</uf>
+        </address>
+    </customer>
+    <customer id="15">
+        <name>Otávio Gomes</name>
+        <cpf>55566677788</cpf>
+        <email>otavio.gomes@email.com</email>
+        <homePhone>1133224499</homePhone>
+        <cellPhone>11987654335</cellPhone>
+        <address>
+            <street>Rua Voluntários</street>
+            <addressNumber>999</addressNumber>
+            <neighborhood>Botafogo</neighborhood>
+            <city>Rio de Janeiro</city>
+            <zipCode>15015000</zipCode>
+            <uf>RJ</uf>
+        </address>
+    </customer>
+    <customer id="16">
+        <name>Paula Mendes</name>
+        <cpf>66677788899</cpf>
+        <email>paula.mendes@email.com</email>
+        <homePhone>1133224400</homePhone>
+        <cellPhone>11987654336</cellPhone>
+        <address>
+            <street>Av. Copacabana</street>
+            <addressNumber>101</addressNumber>
+            <neighborhood>Copacabana</neighborhood>
+            <city>Rio de Janeiro</city>
+            <zipCode>16016000</zipCode>
+            <uf>RJ</uf>
+        </address>
+    </customer>
+    <customer id="17">
+        <name>Rafael Lima</name>
+        <cpf>77788899900</cpf>
+        <email>rafael.lima@email.com</email>
+        <homePhone>1133224411</homePhone>
+        <cellPhone>11987654337</cellPhone>
+        <address>
+            <street>Rua da Paz</street>
+            <addressNumber>202</addressNumber>
+            <neighborhood>Centro</neighborhood>
+            <city>Curitiba</city>
+            <zipCode>17017000</zipCode>
+            <uf>PR</uf>
+        </address>
+    </customer>
+    <customer id="18">
+        <name>Sabrina Lopes</name>
+        <cpf>88899900011</cpf>
+        <email>sabrina.lopes@email.com</email>
+        <homePhone>1133224422</homePhone>
+        <cellPhone>11987654338</cellPhone>
+        <address>
+            <street>Av. Sete de Setembro</street>
+            <addressNumber>303</addressNumber>
+            <neighborhood>Batel</neighborhood>
+            <city>Curitiba</city>
+            <zipCode>18018000</zipCode>
+            <uf>PR</uf>
+        </address>
+    </customer>
+    <customer id="19">
+        <name>Thiago Silva</name>
+        <cpf>99900011122</cpf>
+        <email>thiago.silva@email.com</email>
+        <homePhone>1133224433</homePhone>
+        <cellPhone>11987654339</cellPhone>
+        <address>
+            <street>Rua Marechal Floriano</street>
+            <addressNumber>404</addressNumber>
+            <neighborhood>Centro</neighborhood>
+            <city>Porto Alegre</city>
+            <zipCode>19019000</zipCode>
+            <uf>RS</uf>
+        </address>
+    </customer>
+    <customer id="20">
+        <name>Vanessa Carvalho</name>
+        <cpf>00011122233</cpf>
+        <email>vanessa.carvalho@email.com</email>
+        <homePhone>1133224444</homePhone>
+        <cellPhone>11987654340</cellPhone>
+        <address>
+            <street>Av. Ipiranga</street>
+            <addressNumber>505</addressNumber>
+            <neighborhood>Cidade Baixa</neighborhood>
+            <city>Porto Alegre</city>
+            <zipCode>20020000</zipCode>
+            <uf>RS</uf>
+        </address>
+    </customer>
+    <customer id="21">
+        <name>Ana Júlia Souza</name>
+        <cpf>37921806503</cpf>
+        <email>aaragao@castro.net</email>
+        <homePhone>5571956918</homePhone>
+        <cellPhone>55519081978</cellPhone>
+        <address>
+            <street>Parque de Moreira</street>
+            <addressNumber>906</addressNumber>
+            <neighborhood>Dom Bosco</neighborhood>
+            <city>Castro</city>
+            <zipCode>20804362</zipCode>
+            <uf>BA</uf>
+        </address>
+    </customer>
+    <customer id="22">
+        <name>Luiz Otávio Caldeira</name>
+        <cpf>24107359832</cpf>
+        <email>fernando44@gmail.com</email>
+        <homePhone>5541939597</homePhone>
+        <cellPhone>55819172560</cellPhone>
+        <address>
+            <street>Favela de Lopes</street>
+            <addressNumber>1956</addressNumber>
+            <neighborhood>Garças</neighborhood>
+            <city>Viana do Norte</city>
+            <zipCode>33199635</zipCode>
+            <uf>AP</uf>
+        </address>
+    </customer>
+    <customer id="23">
+        <name>Calebe Melo</name>
+        <cpf>32164907507</cpf>
+        <email>tlopes@gmail.com</email>
+        <homePhone>5584950376</homePhone>
+        <cellPhone>55219486483</cellPhone>
+        <address>
+            <street>Sítio de Souza</street>
+            <addressNumber>648</addressNumber>
+            <neighborhood>Serrano</neighborhood>
+            <city>Fernandes de Freitas</city>
+            <zipCode>33958744</zipCode>
+            <uf>RO</uf>
+        </address>
+    </customer>
+    <customer id="24">
+        <name>Sr. Pedro Lucas Farias</name>
+        <cpf>37480659229</cpf>
+        <email>dfogaca@uol.com.br</email>
+        <homePhone>5561932286</homePhone>
+        <cellPhone>55119583581</cellPhone>
+        <address>
+            <street>Praia da Rocha</street>
+            <addressNumber>1993</addressNumber>
+            <neighborhood>Vila Canto Do Sabiá</neighborhood>
+            <city>Campos de Freitas</city>
+            <zipCode>78735090</zipCode>
+            <uf>SC</uf>
+        </address>
+    </customer>
+    <customer id="25">
+        <name>Srta. Bruna da Cunha</name>
+        <cpf>15708463244</cpf>
+        <email>cnogueira@gmail.com</email>
+        <homePhone>5584932407</homePhone>
+        <cellPhone>55719013031</cellPhone>
+        <address>
+            <street>Largo Juan Alves</street>
+            <addressNumber>1436</addressNumber>
+            <neighborhood>Ouro Preto</neighborhood>
+            <city>da Rosa</city>
+            <zipCode>40361384</zipCode>
+            <uf>RO</uf>
+        </address>
+    </customer>
+    <customer id="26">
+        <name>Pietro Campos</name>
+        <cpf>63095724829</cpf>
+        <email>fcarvalho@cavalcanti.org</email>
+        <homePhone>5521950044</homePhone>
+        <cellPhone>55849931804</cellPhone>
+        <address>
+            <street>Vila Julia Gonçalves</street>
+            <addressNumber>1117</addressNumber>
+            <neighborhood>Acaiaca</neighborhood>
+            <city>Ribeiro</city>
+            <zipCode>21706574</zipCode>
+            <uf>RO</uf>
+        </address>
+    </customer>
+    <customer id="27">
+        <name>Isabelly Rodrigues</name>
+        <cpf>96481053757</cpf>
+        <email>lbarbosa@silva.org</email>
+        <homePhone>5561917213</homePhone>
+        <cellPhone>55219144870</cellPhone>
+        <address>
+            <street>Trecho Raquel Novaes</street>
+            <addressNumber>272</addressNumber>
+            <neighborhood>Ipe</neighborhood>
+            <city>da Rocha</city>
+            <zipCode>84191416</zipCode>
+            <uf>AC</uf>
+        </address>
+    </customer>
+    <customer id="28">
+        <name>Luiz Henrique Nogueira</name>
+        <cpf>48296501767</cpf>
+        <email>moraesfrancisco@gmail.com</email>
+        <homePhone>5521946389</homePhone>
+        <cellPhone>55619279724</cellPhone>
+        <address>
+            <street>Lagoa de Mendes</street>
+            <addressNumber>310</addressNumber>
+            <neighborhood>Chácara Leonina</neighborhood>
+            <city>Fogaça</city>
+            <zipCode>42518315</zipCode>
+            <uf>PR</uf>
+        </address>
+    </customer>
+    <customer id="29">
+        <name>Joaquim Azevedo</name>
+        <cpf>90761345884</cpf>
+        <email>zrocha@hotmail.com</email>
+        <homePhone>5541913402</homePhone>
+        <cellPhone>55819734174</cellPhone>
+        <address>
+            <street>Recanto de Moreira</street>
+            <addressNumber>1036</addressNumber>
+            <neighborhood>Satelite</neighborhood>
+            <city>Costa</city>
+            <zipCode>05141487</zipCode>
+            <uf>RJ</uf>
+        </address>
+    </customer>
+    <customer id="30">
+        <name>Daniel Silveira</name>
+        <cpf>06734812553</cpf>
+        <email>emillygomes@nogueira.org</email>
+        <homePhone>5521959378</homePhone>
+        <cellPhone>55719913076</cellPhone>
+        <address>
+            <street>Sítio de Correia</street>
+            <addressNumber>835</addressNumber>
+            <neighborhood>Conjunto Minas Caixa</neighborhood>
+            <city>Rezende de Viana</city>
+            <zipCode>95559364</zipCode>
+            <uf>MT</uf>
+        </address>
+    </customer>
+    <customer id="31">
+        <name>Thomas Rodrigues</name>
+        <cpf>85432609738</cpf>
+        <email>portolarissa@pires.br</email>
+        <homePhone>5511978328</homePhone>
+        <cellPhone>55319580118</cellPhone>
+        <address>
+            <street>Campo de Pinto</street>
+            <addressNumber>1259</addressNumber>
+            <neighborhood>Vila Primeiro De Maio</neighborhood>
+            <city>Correia</city>
+            <zipCode>36213485</zipCode>
+            <uf>SC</uf>
+        </address>
+    </customer>
+    <customer id="32">
+        <name>Mirella Duarte</name>
+        <cpf>07615249325</cpf>
+        <email>marceloviana@oliveira.com</email>
+        <homePhone>5561980023</homePhone>
+        <cellPhone>55849800218</cellPhone>
+        <address>
+            <street>Sítio de Peixoto</street>
+            <addressNumber>1618</addressNumber>
+            <neighborhood>Ipe</neighborhood>
+            <city>Santos</city>
+            <zipCode>66136005</zipCode>
+            <uf>PA</uf>
+        </address>
+    </customer>
+    <customer id="33">
+        <name>Clarice da Mata</name>
+        <cpf>67408923187</cpf>
+        <email>vnunes@gmail.com</email>
+        <homePhone>5581979346</homePhone>
+        <cellPhone>55849863237</cellPhone>
+        <address>
+            <street>Praia da Paz</street>
+            <addressNumber>887</addressNumber>
+            <neighborhood>Buritis</neighborhood>
+            <city>Rodrigues</city>
+            <zipCode>39183960</zipCode>
+            <uf>AL</uf>
+        </address>
+    </customer>
+    <customer id="34">
+        <name>Levi da Mota</name>
+        <cpf>87562340900</cpf>
+        <email>caue12@teixeira.org</email>
+        <homePhone>5511904833</homePhone>
+        <cellPhone>55719491035</cellPhone>
+        <address>
+            <street>Chácara Bianca Castro</street>
+            <addressNumber>1856</addressNumber>
+            <neighborhood>Pindorama</neighborhood>
+            <city>da Cunha de Barbosa</city>
+            <zipCode>23051643</zipCode>
+            <uf>PI</uf>
+        </address>
+    </customer>
+    <customer id="35">
+        <name>Luiz Henrique Farias</name>
+        <cpf>08126954701</cpf>
+        <email>maria-julia13@lopes.br</email>
+        <homePhone>5581918380</homePhone>
+        <cellPhone>55519486227</cellPhone>
+        <address>
+            <street>Favela Rebeca da Mata</street>
+            <addressNumber>344</addressNumber>
+            <neighborhood>Castanheira</neighborhood>
+            <city>Barbosa</city>
+            <zipCode>36462892</zipCode>
+            <uf>MS</uf>
+        </address>
+    </customer>
+    <customer id="36">
+        <name>Ana Carolina Silva</name>
+        <cpf>02957314606</cpf>
+        <email>leviaragao@silva.br</email>
+        <homePhone>5581918440</homePhone>
+        <cellPhone>55319109013</cellPhone>
+        <address>
+            <street>Viela de Monteiro</street>
+            <addressNumber>1197</addressNumber>
+            <neighborhood>São Paulo</neighborhood>
+            <city>Barbosa de Cardoso</city>
+            <zipCode>60481176</zipCode>
+            <uf>BA</uf>
+        </address>
+    </customer>
+    <customer id="37">
+        <name>Nicolas Almeida</name>
+        <cpf>61095237470</cpf>
+        <email>da-cruzcarolina@moraes.br</email>
+        <homePhone>5551970961</homePhone>
+        <cellPhone>55219599519</cellPhone>
+        <address>
+            <street>Viela Emilly Pinto</street>
+            <addressNumber>1284</addressNumber>
+            <neighborhood>Das Industrias I</neighborhood>
+            <city>Novaes</city>
+            <zipCode>36783261</zipCode>
+            <uf>AP</uf>
+        </address>
+    </customer>
+    <customer id="38">
+        <name>Sofia Moraes</name>
+        <cpf>08524379600</cpf>
+        <email>raquel83@bol.com.br</email>
+        <homePhone>5521910377</homePhone>
+        <cellPhone>55119313490</cellPhone>
+        <address>
+            <street>Esplanada João Guilherme da Conceição</street>
+            <addressNumber>1465</addressNumber>
+            <neighborhood>Anchieta</neighborhood>
+            <city>Campos</city>
+            <zipCode>59033607</zipCode>
+            <uf>AP</uf>
+        </address>
+    </customer>
+    <customer id="39">
+        <name>Maria Luiza Barbosa</name>
+        <cpf>48195032605</cpf>
+        <email>nda-conceicao@melo.com</email>
+        <homePhone>5581990144</homePhone>
+        <cellPhone>55619385244</cellPhone>
+        <address>
+            <street>Vale de Moura</street>
+            <addressNumber>1595</addressNumber>
+            <neighborhood>Minaslandia</neighborhood>
+            <city>da Mota do Norte</city>
+            <zipCode>00990812</zipCode>
+            <uf>PR</uf>
+        </address>
+    </customer>
+    <customer id="40">
+        <name>Isis Souza</name>
+        <cpf>64078235956</cpf>
+        <email>paulo52@bol.com.br</email>
+        <homePhone>5511949767</homePhone>
+        <cellPhone>55719317508</cellPhone>
+        <address>
+            <street>Favela Ramos</street>
+            <addressNumber>285</addressNumber>
+            <neighborhood>Concórdia</neighborhood>
+            <city>Rezende</city>
+            <zipCode>96447823</zipCode>
+            <uf>RO</uf>
+        </address>
+    </customer>
+    <customer id="41">
+        <name>Dr. Lucas Gabriel Souza</name>
+        <cpf>76018354993</cpf>
+        <email>vmoura@ig.com.br</email>
+        <homePhone>5584964800</homePhone>
+        <cellPhone>55419390808</cellPhone>
+        <address>
+            <street>Lago de Monteiro</street>
+            <addressNumber>1981</addressNumber>
+            <neighborhood>Vila Piratininga Venda Nova</neighborhood>
+            <city>Gonçalves da Serra</city>
+            <zipCode>00589254</zipCode>
+            <uf>RR</uf>
+        </address>
+    </customer>
+    <customer id="42">
+        <name>Pietro Lima</name>
+        <cpf>73025984600</cpf>
+        <email>da-costalaura@ig.com.br</email>
+        <homePhone>5551993242</homePhone>
+        <cellPhone>55849138166</cellPhone>
+        <address>
+            <street>Lagoa de Campos</street>
+            <addressNumber>175</addressNumber>
+            <neighborhood>Vila Real 2ª Seção</neighborhood>
+            <city>Teixeira</city>
+            <zipCode>03582221</zipCode>
+            <uf>MG</uf>
+        </address>
+    </customer>
+    <customer id="43">
+        <name>Lívia Nunes</name>
+        <cpf>62139058470</cpf>
+        <email>davi-lucca52@hotmail.com</email>
+        <homePhone>5541990123</homePhone>
+        <cellPhone>55849264063</cellPhone>
+        <address>
+            <street>Colônia Fernanda Nogueira</street>
+            <addressNumber>963</addressNumber>
+            <neighborhood>Belmonte</neighborhood>
+            <city>da Cruz</city>
+            <zipCode>98208549</zipCode>
+            <uf>RO</uf>
+        </address>
+    </customer>
+    <customer id="44">
+        <name>Sra. Luna Pinto</name>
+        <cpf>95207381695</cpf>
+        <email>ana-vitoriarocha@bol.com.br</email>
+        <homePhone>5561956461</homePhone>
+        <cellPhone>55319041581</cellPhone>
+        <address>
+            <street>Condomínio Lívia Oliveira</street>
+            <addressNumber>709</addressNumber>
+            <neighborhood>Jardim Do Vale</neighborhood>
+            <city>Cardoso de Correia</city>
+            <zipCode>04567419</zipCode>
+            <uf>RR</uf>
+        </address>
+    </customer>
+    <customer id="45">
+        <name>Carlos Eduardo Peixoto</name>
+        <cpf>20941573850</cpf>
+        <email>ada-mata@da.br</email>
+        <homePhone>5541989817</homePhone>
+        <cellPhone>55619273106</cellPhone>
+        <address>
+            <street>Viaduto Luna Pires</street>
+            <addressNumber>178</addressNumber>
+            <neighborhood>Jaqueline</neighborhood>
+            <city>da Luz dos Dourados</city>
+            <zipCode>27578284</zipCode>
+            <uf>ES</uf>
+        </address>
+    </customer>
+    <customer id="46">
+        <name>Calebe Nascimento</name>
+        <cpf>59068134205</cpf>
+        <email>oliveiraisabelly@castro.com</email>
+        <homePhone>5581908918</homePhone>
+        <cellPhone>55319531849</cellPhone>
+        <address>
+            <street>Setor de Ramos</street>
+            <addressNumber>1675</addressNumber>
+            <neighborhood>Anchieta</neighborhood>
+            <city>Pereira</city>
+            <zipCode>76896614</zipCode>
+            <uf>PB</uf>
+        </address>
+    </customer>
+    <customer id="47">
+        <name>Bruna da Costa</name>
+        <cpf>63854197039</cpf>
+        <email>wmelo@almeida.com</email>
+        <homePhone>5511945004</homePhone>
+        <cellPhone>55319629351</cellPhone>
+        <address>
+            <street>Aeroporto de Fogaça</street>
+            <addressNumber>1376</addressNumber>
+            <neighborhood>Nossa Senhora Da Conceição</neighborhood>
+            <city>Cardoso Grande</city>
+            <zipCode>67639716</zipCode>
+            <uf>SE</uf>
+        </address>
+    </customer>
+    <customer id="48">
+        <name>Sr. Breno Cardoso</name>
+        <cpf>30915642824</cpf>
+        <email>marina95@caldeira.net</email>
+        <homePhone>5551910222</homePhone>
+        <cellPhone>55849906600</cellPhone>
+        <address>
+            <street>Parque Enzo Gabriel Carvalho</street>
+            <addressNumber>1093</addressNumber>
+            <neighborhood>Maria Helena</neighborhood>
+            <city>Alves</city>
+            <zipCode>11358780</zipCode>
+            <uf>AL</uf>
+        </address>
+    </customer>
+    <customer id="49">
+        <name>Isabel Alves</name>
+        <cpf>91350268712</cpf>
+        <email>miguellopes@barros.net</email>
+        <homePhone>5511914780</homePhone>
+        <cellPhone>55119570672</cellPhone>
+        <address>
+            <street>Lago de Rezende</street>
+            <addressNumber>941</addressNumber>
+            <neighborhood>Vila Real 2ª Seção</neighborhood>
+            <city>Duarte Alegre</city>
+            <zipCode>34749695</zipCode>
+            <uf>RR</uf>
+        </address>
+    </customer>
+    <customer id="50">
+        <name>Benício Moreira</name>
+        <cpf>58691023759</cpf>
+        <email>sophiasilva@aragao.br</email>
+        <homePhone>5571941834</homePhone>
+        <cellPhone>55849277575</cellPhone>
+        <address>
+            <street>Conjunto de Pinto</street>
+            <addressNumber>472</addressNumber>
+            <neighborhood>Madre Gertrudes</neighborhood>
+            <city>Lopes do Norte</city>
+            <zipCode>59679117</zipCode>
+            <uf>GO</uf>
+        </address>
+    </customer>
+    <customer id="51">
+        <name>Luna Aragão</name>
+        <cpf>86193025740</cpf>
+        <email>lteixeira@lima.com</email>
+        <homePhone>5551927854</homePhone>
+        <cellPhone>55519240234</cellPhone>
+        <address>
+            <street>Feira de Ramos</street>
+            <addressNumber>1010</addressNumber>
+            <neighborhood>Juliana</neighborhood>
+            <city>Campos de Viana</city>
+            <zipCode>57607696</zipCode>
+            <uf>MT</uf>
+        </address>
+    </customer>
+    <customer id="52">
+        <name>Kevin Monteiro</name>
+        <cpf>28937450674</cpf>
+        <email>ecostela@bol.com.br</email>
+        <homePhone>5511905358</homePhone>
+        <cellPhone>55619638986</cellPhone>
+        <address>
+            <street>Viela Gonçalves</street>
+            <addressNumber>1876</addressNumber>
+            <neighborhood>Vila Nova</neighborhood>
+            <city>Farias</city>
+            <zipCode>20978657</zipCode>
+            <uf>AM</uf>
+        </address>
+    </customer>
+    <customer id="53">
+        <name>Daniela Azevedo</name>
+        <cpf>89051732414</cpf>
+        <email>danilo32@jesus.com</email>
+        <homePhone>5521974349</homePhone>
+        <cellPhone>55219874545</cellPhone>
+        <address>
+            <street>Colônia de Ramos</street>
+            <addressNumber>428</addressNumber>
+            <neighborhood>Ápia</neighborhood>
+            <city>Ribeiro</city>
+            <zipCode>71628365</zipCode>
+            <uf>DF</uf>
+        </address>
+    </customer>
+    <customer id="54">
+        <name>Bryan Mendes</name>
+        <cpf>25678934155</cpf>
+        <email>mramos@ig.com.br</email>
+        <homePhone>5561994364</homePhone>
+        <cellPhone>55819388067</cellPhone>
+        <address>
+            <street>Estrada de Silveira</street>
+            <addressNumber>680</addressNumber>
+            <neighborhood>Vila Copacabana</neighborhood>
+            <city>Rocha</city>
+            <zipCode>71605960</zipCode>
+            <uf>MT</uf>
+        </address>
+    </customer>
+    <customer id="55">
+        <name>João Pedro Monteiro</name>
+        <cpf>42536019870</cpf>
+        <email>nogueiraelisa@ig.com.br</email>
+        <homePhone>5561978742</homePhone>
+        <cellPhone>55719692687</cellPhone>
+        <address>
+            <street>Via Ramos</street>
+            <addressNumber>563</addressNumber>
+            <neighborhood>Cenaculo</neighborhood>
+            <city>das Neves</city>
+            <zipCode>78447225</zipCode>
+            <uf>GO</uf>
+        </address>
+    </customer>
+    <customer id="56">
+        <name>Sra. Stella Costela</name>
+        <cpf>10762384913</cpf>
+        <email>alvesleonardo@ig.com.br</email>
+        <homePhone>5551900636</homePhone>
+        <cellPhone>55619273971</cellPhone>
+        <address>
+            <street>Estação Felipe Martins</street>
+            <addressNumber>972</addressNumber>
+            <neighborhood>Jardim São José</neighborhood>
+            <city>Mendes</city>
+            <zipCode>44443593</zipCode>
+            <uf>PA</uf>
+        </address>
+    </customer>
+    <customer id="57">
+        <name>Ana Vitória Novaes</name>
+        <cpf>67850134290</cpf>
+        <email>lavinia70@vieira.br</email>
+        <homePhone>5561938059</homePhone>
+        <cellPhone>55119391400</cellPhone>
+        <address>
+            <street>Viaduto Pedro Lucas Carvalho</street>
+            <addressNumber>1149</addressNumber>
+            <neighborhood>Nova Cintra</neighborhood>
+            <city>Silveira de Caldeira</city>
+            <zipCode>91517982</zipCode>
+            <uf>CE</uf>
+        </address>
+    </customer>
+    <customer id="58">
+        <name>Maria Sophia da Costa</name>
+        <cpf>86742953128</cpf>
+        <email>ana-luizacunha@hotmail.com</email>
+        <homePhone>5571937711</homePhone>
+        <cellPhone>55419181505</cellPhone>
+        <address>
+            <street>Setor da Mata</street>
+            <addressNumber>1564</addressNumber>
+            <neighborhood>Gutierrez</neighborhood>
+            <city>Nogueira</city>
+            <zipCode>39152725</zipCode>
+            <uf>MT</uf>
+        </address>
+    </customer>
+    <customer id="59">
+        <name>Sr. Luiz Miguel Silva</name>
+        <cpf>34968027583</cpf>
+        <email>opinto@rocha.br</email>
+        <homePhone>5584994727</homePhone>
+        <cellPhone>55219018866</cellPhone>
+        <address>
+            <street>Estrada Azevedo</street>
+            <addressNumber>1316</addressNumber>
+            <neighborhood>Nova Vista</neighborhood>
+            <city>Martins da Praia</city>
+            <zipCode>02035041</zipCode>
+            <uf>BA</uf>
+        </address>
+    </customer>
+    <customer id="60">
+        <name>Emilly Cardoso</name>
+        <cpf>31708469575</cpf>
+        <email>luigi26@duarte.br</email>
+        <homePhone>5584911392</homePhone>
+        <cellPhone>55519668010</cellPhone>
+        <address>
+            <street>Aeroporto Nunes</street>
+            <addressNumber>388</addressNumber>
+            <neighborhood>Parque São Pedro</neighborhood>
+            <city>da Rocha do Campo</city>
+            <zipCode>67268611</zipCode>
+            <uf>SE</uf>
+        </address>
+    </customer>
+    <customer id="61">
+        <name>Luna Lima</name>
+        <cpf>82065931795</cpf>
+        <email>anogueira@viana.org</email>
+        <homePhone>5511932920</homePhone>
+        <cellPhone>55419306174</cellPhone>
+        <address>
+            <street>Sítio de Rezende</street>
+            <addressNumber>826</addressNumber>
+            <neighborhood>Califórnia</neighborhood>
+            <city>Costela</city>
+            <zipCode>36812328</zipCode>
+            <uf>MS</uf>
+        </address>
+    </customer>
+    <customer id="62">
+        <name>Srta. Rebeca Caldeira</name>
+        <cpf>02178594611</cpf>
+        <email>leonardo92@nunes.br</email>
+        <homePhone>5511915222</homePhone>
+        <cellPhone>55619315437</cellPhone>
+        <address>
+            <street>Passarela de Lopes</street>
+            <addressNumber>184</addressNumber>
+            <neighborhood>Ipiranga</neighborhood>
+            <city>Monteiro</city>
+            <zipCode>98050195</zipCode>
+            <uf>PB</uf>
+        </address>
+    </customer>
+    <customer id="63">
+        <name>Giovanna Costela</name>
+        <cpf>75290346180</cpf>
+        <email>pietrovieira@costa.net</email>
+        <homePhone>5571944564</homePhone>
+        <cellPhone>55519192850</cellPhone>
+        <address>
+            <street>Condomínio Ana Júlia da Mata</street>
+            <addressNumber>868</addressNumber>
+            <neighborhood>Vila Piratininga Venda Nova</neighborhood>
+            <city>Nogueira de Minas</city>
+            <zipCode>92929432</zipCode>
+            <uf>GO</uf>
+        </address>
+    </customer>
+    <customer id="64">
+        <name>Raul Cardoso</name>
+        <cpf>09854127630</cpf>
+        <email>danielalopes@martins.com</email>
+        <homePhone>5561950592</homePhone>
+        <cellPhone>55619819702</cellPhone>
+        <address>
+            <street>Jardim da Rocha</street>
+            <addressNumber>611</addressNumber>
+            <neighborhood>Santa Efigênia</neighborhood>
+            <city>Peixoto de Minas</city>
+            <zipCode>04672294</zipCode>
+            <uf>ES</uf>
+        </address>
+    </customer>
+    <customer id="65">
+        <name>Fernanda Sales</name>
+        <cpf>53280174635</cpf>
+        <email>ifarias@hotmail.com</email>
+        <homePhone>5561949885</homePhone>
+        <cellPhone>55419018952</cellPhone>
+        <address>
+            <street>Parque Jesus</street>
+            <addressNumber>731</addressNumber>
+            <neighborhood>Minas Brasil</neighborhood>
+            <city>Azevedo de Minas</city>
+            <zipCode>17696138</zipCode>
+            <uf>MA</uf>
+        </address>
+    </customer>
+    <customer id="66">
+        <name>Alícia Oliveira</name>
+        <cpf>95768340157</cpf>
+        <email>nicolejesus@da.br</email>
+        <homePhone>5561989815</homePhone>
+        <cellPhone>55849519867</cellPhone>
+        <address>
+            <street>Trevo Gomes</street>
+            <addressNumber>33</addressNumber>
+            <neighborhood>Ipiranga</neighborhood>
+            <city>Costa</city>
+            <zipCode>98180612</zipCode>
+            <uf>MA</uf>
+        </address>
+    </customer>
+    <customer id="67">
+        <name>Yago da Mata</name>
+        <cpf>27916843528</cpf>
+        <email>henrique38@hotmail.com</email>
+        <homePhone>5551961749</homePhone>
+        <cellPhone>55419249027</cellPhone>
+        <address>
+            <street>Travessa Paulo da Conceição</street>
+            <addressNumber>1280</addressNumber>
+            <neighborhood>Miramar</neighborhood>
+            <city>Sales do Sul</city>
+            <zipCode>51713600</zipCode>
+            <uf>RO</uf>
+        </address>
+    </customer>
+    <customer id="68">
+        <name>Srta. Olivia Alves</name>
+        <cpf>20754819620</cpf>
+        <email>caua32@da.br</email>
+        <homePhone>5531999332</homePhone>
+        <cellPhone>55219066558</cellPhone>
+        <address>
+            <street>Vale Moura</street>
+            <addressNumber>1399</addressNumber>
+            <neighborhood>Santa Rita De Cássia</neighborhood>
+            <city>da Mata de Minas</city>
+            <zipCode>48502653</zipCode>
+            <uf>SC</uf>
+        </address>
+    </customer>
+    <customer id="69">
+        <name>Leandro da Mata</name>
+        <cpf>09486351775</cpf>
+        <email>danilofreitas@da.com</email>
+        <homePhone>5561951618</homePhone>
+        <cellPhone>55419415493</cellPhone>
+        <address>
+            <street>Colônia Lucas Souza</street>
+            <addressNumber>1922</addressNumber>
+            <neighborhood>Ápia</neighborhood>
+            <city>das Neves de Barros</city>
+            <zipCode>87637883</zipCode>
+            <uf>PE</uf>
+        </address>
+    </customer>
+    <customer id="70">
+        <name>João Pedro da Conceição</name>
+        <cpf>97602413822</cpf>
+        <email>vieiravitoria@yahoo.com.br</email>
+        <homePhone>5571901089</homePhone>
+        <cellPhone>55419238564</cellPhone>
+        <address>
+            <street>Passarela de Barbosa</street>
+            <addressNumber>1559</addressNumber>
+            <neighborhood>Aguas Claras</neighborhood>
+            <city>Nascimento</city>
+            <zipCode>53453931</zipCode>
+            <uf>AP</uf>
+        </address>
+    </customer>
+    <customer id="71">
+        <name>Benjamin da Conceição</name>
+        <cpf>74318062562</cpf>
+        <email>vitorrodrigues@ferreira.net</email>
+        <homePhone>5551940677</homePhone>
+        <cellPhone>55719105989</cellPhone>
+        <address>
+            <street>Residencial André da Rosa</street>
+            <addressNumber>1439</addressNumber>
+            <neighborhood>Cônego Pinheiro 1ª Seção</neighborhood>
+            <city>Teixeira</city>
+            <zipCode>45573060</zipCode>
+            <uf>MS</uf>
+        </address>
+    </customer>
+    <customer id="72">
+        <name>Sr. Rafael Correia</name>
+        <cpf>50187392404</cpf>
+        <email>da-conceicaodavi-lucas@ig.com.br</email>
+        <homePhone>5531931031</homePhone>
+        <cellPhone>55719839655</cellPhone>
+        <address>
+            <street>Vale da Luz</street>
+            <addressNumber>1734</addressNumber>
+            <neighborhood>Ouro Preto</neighborhood>
+            <city>Pinto</city>
+            <zipCode>21763150</zipCode>
+            <uf>MG</uf>
+        </address>
+    </customer>
+    <customer id="73">
+        <name>Luigi Silva</name>
+        <cpf>14682395033</cpf>
+        <email>samueldias@sales.br</email>
+        <homePhone>5571950175</homePhone>
+        <cellPhone>55319247832</cellPhone>
+        <address>
+            <street>Condomínio de Lopes</street>
+            <addressNumber>636</addressNumber>
+            <neighborhood>Coração Eucarístico</neighborhood>
+            <city>Dias de Souza</city>
+            <zipCode>68612993</zipCode>
+            <uf>RS</uf>
+        </address>
+    </customer>
+    <customer id="74">
+        <name>Antônio da Rocha</name>
+        <cpf>51780632444</cpf>
+        <email>luiz-gustavofogaca@gmail.com</email>
+        <homePhone>5521964048</homePhone>
+        <cellPhone>55519031803</cellPhone>
+        <address>
+            <street>Rodovia Benjamin Barbosa</street>
+            <addressNumber>1493</addressNumber>
+            <neighborhood>São Pedro</neighborhood>
+            <city>da Mata do Norte</city>
+            <zipCode>67664902</zipCode>
+            <uf>MT</uf>
+        </address>
+    </customer>
+    <customer id="75">
+        <name>Isabel Oliveira</name>
+        <cpf>32986174582</cpf>
+        <email>laviniagoncalves@mendes.br</email>
+        <homePhone>5541963350</homePhone>
+        <cellPhone>55119770817</cellPhone>
+        <address>
+            <street>Residencial Carlos Eduardo Lopes</street>
+            <addressNumber>164</addressNumber>
+            <neighborhood>Barão Homem De Melo 3ª Seção</neighborhood>
+            <city>Moraes da Prata</city>
+            <zipCode>40355840</zipCode>
+            <uf>RS</uf>
+        </address>
+    </customer>
+    <customer id="76">
+        <name>Thales Santos</name>
+        <cpf>73698015439</cpf>
+        <email>ifogaca@gmail.com</email>
+        <homePhone>5511962901</homePhone>
+        <cellPhone>55219180817</cellPhone>
+        <address>
+            <street>Quadra Clarice Carvalho</street>
+            <addressNumber>934</addressNumber>
+            <neighborhood>Vila Santa Monica 2ª Seção</neighborhood>
+            <city>da Paz</city>
+            <zipCode>01642492</zipCode>
+            <uf>PI</uf>
+        </address>
+    </customer>
+    <customer id="77">
+        <name>Gabriela Silva</name>
+        <cpf>68972403113</cpf>
+        <email>mendesmaria-fernanda@correia.br</email>
+        <homePhone>5521917997</homePhone>
+        <cellPhone>55319868526</cellPhone>
+        <address>
+            <street>Passarela Freitas</street>
+            <addressNumber>545</addressNumber>
+            <neighborhood>Nossa Senhora Da Conceição</neighborhood>
+            <city>Lopes</city>
+            <zipCode>84626492</zipCode>
+            <uf>AC</uf>
+        </address>
+    </customer>
+    <customer id="78">
+        <name>Maria Vitória Nunes</name>
+        <cpf>03867152977</cpf>
+        <email>franciscoda-cruz@ferreira.com</email>
+        <homePhone>5521925610</homePhone>
+        <cellPhone>55849848571</cellPhone>
+        <address>
+            <street>Conjunto Costa</street>
+            <addressNumber>1184</addressNumber>
+            <neighborhood>Mariano De Abreu</neighborhood>
+            <city>da Mota do Amparo</city>
+            <zipCode>73461174</zipCode>
+            <uf>RO</uf>
+        </address>
+    </customer>
+    <customer id="79">
+        <name>Ana Vitória Azevedo</name>
+        <cpf>93041287579</cpf>
+        <email>lgomes@ig.com.br</email>
+        <homePhone>5541932681</homePhone>
+        <cellPhone>55319134927</cellPhone>
+        <address>
+            <street>Setor Esther Ribeiro</street>
+            <addressNumber>1543</addressNumber>
+            <neighborhood>Alpes</neighborhood>
+            <city>Campos</city>
+            <zipCode>70876815</zipCode>
+            <uf>PA</uf>
+        </address>
+    </customer>
+    <customer id="80">
+        <name>Lorenzo Cardoso</name>
+        <cpf>32651980498</cpf>
+        <email>da-conceicaoana-julia@da.br</email>
+        <homePhone>5531967080</homePhone>
+        <cellPhone>55119278041</cellPhone>
+        <address>
+            <street>Estação de da Conceição</street>
+            <addressNumber>229</addressNumber>
+            <neighborhood>Marajó</neighborhood>
+            <city>Cardoso de Azevedo</city>
+            <zipCode>36999827</zipCode>
+            <uf>AC</uf>
+        </address>
+    </customer>
+</customers>

@@ -1,0 +1,9 @@
+
+- executar o script sql para criar a tabela e inserir os dados na tabela clientes
+- ler os registros do banco de dados e adicionar para um arraylist de clientes
+- deve ser criada uma thread para ler do banco e adicionar os dados em uma arraylist
+- transformar o arraylist de clientes para um document xml  20 clientes por arquivo
+- a arraylist deve ser processada por 4 threads, cada thread deve salvar os dados processado em um arquivo separado
+- cada arquivo deve conter no maximo 20  registros
+- o processamento deve seguir o padrão produtor consumidor
+- deve ser salvo em um arquivo o log das execuções (ex. thread um iniciou a leitura do banco de dados, thread 2 iniciou a conversão dos registro dde 1 a 20 .
